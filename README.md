@@ -28,11 +28,11 @@ It supports encrypted password storage, OTP verification, CAPTCHA validation, an
 
 | App Screen | Login Attempt (External Scan) |
 | --- | --- |
-| ![Login Successful](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/appscreen.png) | ![Registration Successful](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/loginscreen.png) |
+| ![Login Successful](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/appscreen.jpg) | ![Registration Successful](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/loginscreen.jpg) |
 
 | AR Camera Scan | Virtual Card Display |
 | --- | --- |
-| ![OTP Verification](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/arstudiocamera.png) | ![Custom Popup](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/carddetails.png) |
+| ![OTP Verification](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/arstudiocamera.jpg) | ![Custom Popup](https://raw.githubusercontent.com/dnyaneshsb20/User-Authentication-System/main/carddetails.jpg) |
 
 ---
 
