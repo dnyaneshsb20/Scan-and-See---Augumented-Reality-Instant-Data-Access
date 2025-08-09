@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771189552076",
+    "project_id": "scanseeapp-8d5f6",
+    "storage_bucket": "scanseeapp-8d5f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771189552076:android:b1d5c6c60b0308092e6369",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzCU9TdXG6h2e-6g4e1o8VXljSSralhDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
